@@ -1,6 +1,6 @@
+import './global.css'
+
 function App() {
-
-
   return (
     <p> Default App </p>
   )
